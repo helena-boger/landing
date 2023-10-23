@@ -1,0 +1,35 @@
+.btn-yellow {
+  background-color: lightgoldenrodyellow;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: black;
+  font-weight: bold;
+}
+.btn-yellow:hover{
+  color: darkgrey;
+}
+
+.btn-blue {
+  background-color: #451952;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-blue:hover {
+  background-color: black;
+  color: white;
+}
+
+.btn {
+  padding: 40px 60px;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn:hover {
+  color: #451952;
+}
